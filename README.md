@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! 👋
 
 <!--
 **akabalde/akabalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Busco trabajo como .NET Developer
+- 🌱 Actualmente haciendo acelereación de Alkemy en ➡ [@diego-balde](https://github.com/diego-balde)
+- 💻 Tengo conocimientos básicos de: C#, Web APIs, WinForms, SQL Server, EntityFramework, LINQ to SQL, Identity
+- 💖 Me encanta el ecosistema de Microsoft y me gusta entender en profundidad sus herramientas
+- 📫 Si te interesa mi perfil, ¡podemos hablar! ➡ diego.balde.job@gmail.com
