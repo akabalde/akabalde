@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Busco trabajo como .NET Developer
-- 🌱 Actualmente haciendo aceleración de Alkemy en ➡ [@diego-balde](https://github.com/diego-balde)
+- 🏁 Aceleración de Alkemy finalizada (27/9/2022) en ➡ [@diego-balde](https://github.com/diego-balde)
 - 💻 Tengo conocimientos de: C#, Web APIs, WinForms, SQL Server, EntityFramework, LINQ to SQL, Identity
 - 💖 Me encanta el ecosistema de Microsoft y me gusta entender en profundidad sus herramientas
 - 📫 Si te interesa mi perfil, ¡podemos hablar! ➡ diego.balde.job@gmail.com
